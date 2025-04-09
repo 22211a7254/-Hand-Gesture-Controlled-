@@ -1,8 +1,8 @@
-✋ Hand Gesture Controlled Volume and Brightness Control using Python
+#✋ Hand Gesture Controlled Volume and Brightness Control using Python
 
 This project demonstrates a hand gesture recognition system using a webcam to control your system's volume and screen brightness in real time. It uses MediaPipe to detect hand landmarks and maps specific finger distances to volume and brightness levels. A right-hand gesture controls the system volume, while a left-hand gesture controls screen brightness.
 
-🚀 Features
+#🚀 Features
 
 Real-time hand tracking using a webcam
 
